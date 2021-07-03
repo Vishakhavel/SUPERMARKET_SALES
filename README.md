@@ -29,7 +29,8 @@ This project focuses on different types of supermarkets that are in business in 
 
 
 
-
+The results of the models tested on the test data were submitted to the hackathon and the RMSE results were returned, which have been tabulated and arranged in the descending order.
+We see that the XGBOOST and RANDOM FOREST REGRESSORS perform the best, while the KNN algorithms perform the worst.
 ## RESULTS
  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124359216-9e321780-dc41-11eb-8712-35f7ff83548f.png">
  

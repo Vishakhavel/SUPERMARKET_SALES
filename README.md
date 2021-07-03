@@ -17,13 +17,13 @@ This project focuses on different types of supermarkets that are in business in 
 ## SOME VISUALIZATIONS
 
  <img width="500px" alt="badge" src="https://user-images.githubusercontent.com/54572908/124359354-33cda700-dc42-11eb-94f0-0e9634309199.png">
-  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124359413-6a0b2680-dc42-11eb-8e5b-95090914263c.png">
+  <img  width="500px" alt="badge" src="https://user-images.githubusercontent.com/54572908/124359413-6a0b2680-dc42-11eb-8e5b-95090914263c.png">
 
 
- <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124359462-c8380980-dc42-11eb-8e3d-2fa75a743c72.png">
+ <img  width="500px" alt="badge" src="https://user-images.githubusercontent.com/54572908/124359462-c8380980-dc42-11eb-8e3d-2fa75a743c72.png">
 
 
- <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/124359518-05040080-dc43-11eb-9986-52cd615a246a.png">
+ <img  width="500px" alt="badge" src="https://user-images.githubusercontent.com/54572908/124359518-05040080-dc43-11eb-9986-52cd615a246a.png">
 
 
 
